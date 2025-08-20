@@ -14,10 +14,12 @@ It’s a **responsive Developer Landing Page** built using **HTML & CSS**, showc
 
 ## 📸 Preview  
 
-<img width="1920" height="2165" alt="landingpage" src="https://github.com/user-attachments/assets/3844f397-ccc4-43a7-8033-40a9fdf782ef" />
+<img width="1920" height="2165" alt="landingpage" src="https://github.com/user-attachments/assets/d8f0ab43-ac3e-4e8e-9f18-ae85ea74b316" />
 
 
-![mobilelandingpage png](https://github.com/user-attachments/assets/17fb9c6f-e361-4594-9879-61f8279cb1f7)
+
+
+![mobilelandingpage png](https://github.com/user-attachments/assets/f614d7ed-4ba9-4380-991d-beeddbc5be3e)
 
 ---
 
